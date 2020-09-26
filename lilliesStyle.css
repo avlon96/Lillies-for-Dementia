@@ -1,0 +1,20 @@
+
+h1 {
+    font-family: fantasy;
+}
+h7, a, h2 {
+    font-family: cursive;
+}
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background: linear-gradient(to right, #7780e2,white);
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+body {
+    background: linear-gradient(to right, #9198e5,white);
+}
+.card {
+    background: linear-gradient(to right, #7780e2,white);
+}
