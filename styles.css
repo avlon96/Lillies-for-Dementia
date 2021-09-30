@@ -18,3 +18,6 @@ body {
 .card {
     background: linear-gradient(to right, #7780e2,white);
 }
+.center {
+    text-align: center;
+}
