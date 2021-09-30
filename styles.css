@@ -2,9 +2,7 @@
 h1 {
     font-family: fantasy;
 }
-h7, a, h2 {
-    font-family: cursive;
-}
+
 .jumbotron {
     margin: 0;
     padding: 30px;
