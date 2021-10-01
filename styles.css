@@ -37,9 +37,10 @@ header {
     padding: 0;
   }
   div.gallery {
+    margin: 5px;
     border: 1px solid #ccc;
     float: center;
-    width: auto;
+    width: 400;
   }
   
   div.gallery:hover {
@@ -47,8 +48,8 @@ header {
   }
   
   div.gallery img {
-    width: auto;
-    height: auto;
+    width: 400;
+    height: 200;
   }
   
   div.desc {
