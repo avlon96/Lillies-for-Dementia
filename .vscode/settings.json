@@ -1,0 +1,19 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true
+    },
+    "remote.autoForwardPorts": true,
+    "remote.otherPortsAttributes": {
+        "onAutoForward": "openBrowser"
+    },
+    "remote.portsAttributes": {
+        
+        "443": {
+            "protocol": "https"
+        },
+        "8443": {
+            "protocol": "https"
+        }
+    }
+}
